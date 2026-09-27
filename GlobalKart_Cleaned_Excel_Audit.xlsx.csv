@@ -1,0 +1,21 @@
+Order_ID,Customer_ID,Customer_Name,Customer_City,Customer_Segment,Product_ID,Product_Name,Category,Unit_Cost,Unit_Price,Quantity,Discount_Pct,Order_Date,Shipping_Date,Order_Status,Payment_Mode,Gross_Revenue,Total Cost,Net Profit,Shipping Days
+1001,CUST-101,Aarav Sharma,Delhi,Consumer,PROD-201,Wireless Headphones,Electronics,1200,2500,2,0.1,05-01-2026,07-01-2026,Delivered,UPI,4500,2400,2100,2
+1002,CUST-102,Priya Verma,Noida,Corporate,PROD-205,Cotton Casual Shirt,Fashion,450,1199,3,0.15,06-01-2026,09-01-2026,Delivered,Credit Card,3057.45,1350,1707.45,3
+1003,CUST-103,Rohan Gupta,Gurgaon,Home Office,PROD-210,Ergonomic Chair,Home & Kitchen,3500,7999,1,0.05,08-01-2026,12-01-2026,Delivered,Debit Card,7599.05,3500,4099.05,4
+1004,CUST-104,Ananya Singh,Delhi,Consumer,PROD-202,Smartwatch Pro,Electronics,2200,4999,1,0.2,10-01-2026,11-01-2026,Delivered,UPI,3999.2,2200,1799.2,1
+1005,CUST-105,Vikram Mehta,Ghaziabad,Corporate,PROD-215,Whey Protein 1kg,Fitness,1800,3499,2,0.1,12-01-2026,15-01-2026,Delivered,Net Banking,6298.2,3600,2698.2,3
+1006,CUST-101,Aarav Sharma,Delhi,Consumer,PROD-203,"Gaming Laptop 15""",Electronics,45000,75000,1,0.08,15-01-2026,20-01-2026,Delivered,Credit Card,69000,45000,24000,5
+1007,CUST-106,Neha Joshi,Noida,Consumer,PROD-208,Face Serum 30ml,Beauty,300,899,2,0.12,18-01-2026,21-01-2026,Delivered,UPI,1582.24,600,982.24,3
+1008,CUST-107,Siddharth Rao,Gurgaon,Corporate,PROD-211,Non-Stick Cookware,Home & Kitchen,1500,3299,1,0.1,20-01-2026,26-01-2026,Delivered,COD,2969.1,1500,1469.1,6
+1009,CUST-108,Kavya Patel,Delhi,Home Office,PROD-204,Bluetooth Speaker,Electronics,800,1899,4,0.15,22-01-2026,24-01-2026,Delivered,UPI,6456.6,3200,3256.6,2
+1010,CUST-102,Priya Verma,Noida,Corporate,PROD-206,Running Shoes,Fashion,1100,2799,1,0.1,25-01-2026,28-01-2026,Delivered,Credit Card,2519.1,1100,1419.1,3
+1011,CUST-109,Rahul Saxena,Faridabad,Consumer,PROD-214,Yoga Mat Extra Thick,Fitness,400,999,2,0.05,01-02-2026,05-02-2026,Delivered,UPI,1898.1,800,1098.1,4
+1012,CUST-110,Sneha Kapoor,Delhi,Corporate,PROD-207,Designer Handbag,Fashion,2500,5999,1,0.25,03-02-2026,06-02-2026,Delivered,Credit Card,4499.25,2500,1999.25,3
+1013,CUST-103,Rohan Gupta,Gurgaon,Home Office,PROD-203,"Gaming Laptop 15""",Electronics,45000,75000,1,0.05,05-02-2026,11-02-2026,Delivered,Net Banking,71250,45000,26250,6
+1014,CUST-105,Vikram Mehta,Ghaziabad,Corporate,PROD-212,Air Fryer 4L,Home & Kitchen,3200,6499,1,0.1,08-02-2026,12-02-2026,Delivered,UPI,5849.1,3200,2649.1,4
+1015,CUST-104,Ananya Singh,Delhi,Consumer,PROD-209,Sunscreen Gel,Beauty,250,599,3,0.1,10-02-2026,12-02-2026,Delivered,UPI,1617.3,750,867.3,2
+1016,CUST-101,Aarav Sharma,Delhi,Consumer,PROD-215,Whey Protein 1kg,Fitness,1800,3499,1,0.1,14-02-2026,16-02-2026,Delivered,UPI,3149.1,1800,1349.1,2
+1017,CUST-107,Siddharth Rao,Gurgaon,Corporate,PROD-201,Wireless Headphones,Electronics,1200,2500,2,0.15,18-02-2026,21-02-2026,Delivered,Credit Card,4250,2400,1850,3
+1018,CUST-106,Neha Joshi,Noida,Consumer,PROD-205,Cotton Casual Shirt,Fashion,450,1199,2,0.1,20-02-2026,23-02-2026,Delivered,UPI,2158.2,900,1258.2,3
+1019,CUST-108,Kavya Patel,Delhi,Home Office,PROD-210,Ergonomic Chair,Home & Kitchen,3500,7999,1,0.1,22-02-2026,28-02-2026,Delivered,Debit Card,7199.1,3500,3699.1,6
+1020,CUST-102,Priya Verma,Noida,Corporate,PROD-202,Smartwatch Pro,Electronics,2200,4999,1,0.12,25-02-2026,27-02-2026,Delivered,Credit Card,4399.12,2200,2199.12,2
